@@ -3,7 +3,7 @@
  * @brief    CMSIS Cortex-M3 Core Peripheral Access Layer Header File
  * @version  V3.30
  * @date     17. February 2014
- *
+ * @user_data 11. Jun 2025
  * @note
  *
  ******************************************************************************/
