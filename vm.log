@@ -1,0 +1,86 @@
+2024-08-22T14:00:08.767Z In(05) vmx OvhdMem OvhdMon_VNPTShadow                  :    6447   6447      - |   4086   4086      -
+2024-08-22T14:00:08.767Z In(05) vmx OvhdMem OvhdMon_VNPTShadowCache             :      53     53      - |     34     34      -
+2024-08-22T14:00:08.767Z In(05) vmx OvhdMem OvhdMon_VNPTBackmap                 :    4109   4351      - |   2593   2593      -
+2024-08-22T14:00:08.767Z In(05) vmx OvhdMem OvhdMon_Numa                        :      54     54      - |     14     44      -
+2024-08-22T14:00:08.767Z In(05) vmx OvhdMem OvhdMon_NumaTextRodata              :     198    381      - |    183    366      -
+2024-08-22T14:00:08.767Z In(05) vmx OvhdMem OvhdMon_NumaDataBss                 :     162    162      - |    156    156      -
+2024-08-22T14:00:08.767Z In(05) vmx OvhdMem OvhdMon_NumaLargeData               :       0    512      - |      0      0      -
+2024-08-22T14:00:08.767Z In(05) vmx OvhdMem OvhdMon_BaseWired                   :     168    174      - |    144    144      -
+2024-08-22T14:00:08.767Z In(05) vmx OvhdMem OvhdMon_Bootstrap                   :       0   2303      - |      0    334      -
+2024-08-22T14:00:08.767Z In(05) vmx OvhdMem OvhdMon_GPhysTraced                 :     883    883      - |    867    874      -
+2024-08-22T14:00:08.767Z In(05) vmx OvhdMem OvhdMon_GPhysHWMMU                  :    4382   4382      - |   4248   4248      -
+2024-08-22T14:00:08.767Z In(05) vmx OvhdMem OvhdMon_GPhysNoTrace                :     274    274      - |    127    238      -
+2024-08-22T14:00:08.767Z In(05) vmx OvhdMem OvhdMon_PhysMemGart                 :     104    104      - |     96     96      -
+2024-08-22T14:00:08.767Z In(05) vmx OvhdMem OvhdMon_PhysMemErr                  :      11     11      - |      0      0      -
+2024-08-22T14:00:08.767Z In(05) vmx OvhdMem OvhdMon_VProbe                      :       1      1      - |      0      0      -
+2024-08-22T14:00:08.767Z In(05) vmx OvhdMem Total anonymous                     :   22994  26297      - |  18011  18783      -
+2024-08-22T14:00:08.767Z In(05) vmx OvhdMem Actual maximum                      :          22994        |         25602
+2024-08-22T14:00:08.767Z In(05)+ vmx 
+2024-08-22T14:00:08.767Z In(05) vmx VMMEM: Maximum Reservation: 2776MB (MainMem=8192MB)
+2024-08-22T14:00:08.767Z In(05) vmx MemSched: BALLOON HIST [0, 2097152]: 250672 250672 0 0 0 0 0 0 0 0 0 0
+2024-08-22T14:00:08.767Z In(05) vmx MemSched: BALLOON P50 1 P70 1 P90 1 MIN 0 MAX 0
+2024-08-22T14:00:08.767Z In(05) vmx MemSched: SWAP HIST [0, 2097152]: 119 10085 9569 10458 17395 203165 0 0 0 0 0 0
+2024-08-22T14:00:08.767Z In(05) vmx MemSched: SWAP P50 50 P70 50 P90 50 MIN 0 MAX 1039589
+2024-08-22T14:00:08.767Z In(05) vmx MemSched: LOCK HIST [0, 2097152]: 0 17 32 16 43 8 202767 18950 10943 9634 8262 0
+2024-08-22T14:00:08.767Z In(05) vmx MemSched: LOCK P50 60 P70 60 P90 80 MIN 4826 MAX 2057273
+2024-08-22T14:00:08.768Z In(05) vmx MemSched: LOCK_TARGET HIST [0, 2097152]: 0 0 0 0 0 0 0 0 0 0 250672 250672
+2024-08-22T14:00:08.768Z In(05) vmx MemSched: LOCK_TARGET P50 100 P70 100 P90 100 MIN 2097152 MAX 2130350
+2024-08-22T14:00:08.768Z In(05) vmx MemSched: ACTIVE_PCT HIST [0, 100]: 0 202676 46249 882 121 180 60 60 323 0 121 0
+2024-08-22T14:00:08.768Z In(05) vmx MemSched: ACTIVE_PCT P50 10 P70 10 P90 20 MIN 3 MAX 95
+2024-08-22T14:00:08.768Z In(05) vmx MemSched: NUM_VMS HIST [0, 10]: 0 0 385 64403 185884 0 0 0 0 0 0 0
+2024-08-22T14:00:08.768Z In(05) vmx MemSched: NUM_VMS P50 40 P70 40 P90 40 MIN 1 MAX 3
+2024-08-22T14:00:08.768Z In(05) vmx MemSched: HOSTLOCK HIST [0, 14635776]: 0 493 114 166034 84031 0 0 0 0 0 0 0
+2024-08-22T14:00:08.768Z In(05) vmx MemSched: HOSTLOCK P50 30 P70 40 P90 40 MIN 550780 MAX 4846235
+2024-08-22T14:00:08.768Z In(05) vmx TOOLS received request in VMX to set option 'enableDnD' -> '0'
+2024-08-22T14:00:08.768Z In(05) vmx GuestRpc: Attempt to send TCLO msg for 'toolbox' while GuestRpc is powering off.
+2024-08-22T14:00:08.768Z In(05) vmx TOOLS received request in VMX to set option 'copypaste' -> '0'
+2024-08-22T14:00:08.768Z In(05) vmx GuestRpc: Attempt to send TCLO msg for 'toolbox' while GuestRpc is powering off.
+2024-08-22T14:00:08.769Z In(05) vmx HgfsServerManagerVigorExit: Destroy:
+2024-08-22T14:00:08.769Z In(05) vmx ToolsISO: Refreshing imageName for 'other4xlinux-64' (refreshCount=1, lastCount=1).
+2024-08-22T14:00:08.773Z In(05) vmx ToolsISO: open of C:\Program Files (x86)\VMware\VMware Workstation\isoimages_manifest.txt.sig failed: Could not find the file
+2024-08-22T14:00:08.773Z In(05) vmx ToolsISO: Unable to read signature file 'C:\Program Files (x86)\VMware\VMware Workstation\isoimages_manifest.txt.sig', ignoring.
+2024-08-22T14:00:08.773Z In(05) vmx ToolsISO: Updated cached value for imageName to 'linux.iso'.
+2024-08-22T14:00:08.774Z In(05) vmx ToolsISO: Selected Tools ISO 'linux.iso' for 'other4xlinux-64' guest.
+2024-08-22T14:00:08.774Z In(05) vmx TOOLS updated cached value for isoImageExists to 1.
+2024-08-22T14:00:08.774Z In(05) vmx Tools: ToolsRunningStatus_Exit, delayedRequest is 0x0
+2024-08-22T14:00:08.774Z In(05) vmx TOOLS: appName=toolbox-dnd, oldStatus=0, status=0, guestInitiated=0.
+2024-08-22T14:00:08.775Z In(05) vmx Tools: [AppStatus] Last heartbeat value 26 (last received 250669s ago)
+2024-08-22T14:00:08.775Z In(05) vmx TOOLS: appName=toolbox, oldStatus=0, status=0, guestInitiated=0.
+2024-08-22T14:00:08.776Z In(05) vmx USB: DevID(10e0f0002): Disconnecting device.
+2024-08-22T14:00:08.782Z In(05) usbCCIDEnumCards USB-CCID: Card enum thread exiting.
+2024-08-22T14:00:08.783Z In(05) vmx SOUNDLIB: Closing Wave sound backend.
+2024-08-22T14:00:08.784Z In(05) mks MKSControlMgr: disconnected
+2024-08-22T14:00:08.784Z In(05) mks MKS-RenderMain: Stopping MKSBasicOps
+2024-08-22T14:00:08.784Z In(05) mks MKS-RenderMain: Stopping MKSBasicOps
+2024-08-22T14:00:08.784Z In(05) mks MKS-RenderMain: Stopped MKSBasicOps
+2024-08-22T14:00:08.787Z In(05) mks MKS PowerOff
+2024-08-22T14:00:08.787Z In(05) svga SVGA thread is exiting
+2024-08-22T14:00:08.787Z In(05) mks MKS thread is exiting
+2024-08-22T14:00:08.787Z Wa(03) vmx 
+2024-08-22T14:00:08.787Z In(05) vmx sata0:1: numIOs = 6198110 numMergedIOs = 98661 numSplitIOs = 725 ( 0.7%)
+2024-08-22T14:00:08.787Z In(05) vmx Closing disk 'sata0:1'
+2024-08-22T14:00:08.833Z In(05) vmx sata0:3: numIOs = 6248568 numMergedIOs = 109970 numSplitIOs = 174 ( 0.2%)
+2024-08-22T14:00:08.833Z In(05) vmx Closing disk 'sata0:3'
+2024-08-22T14:00:08.863Z In(05) vmx sata0:0: numIOs = 11857 numMergedIOs = 183 numSplitIOs = 22 (10.7%)
+2024-08-22T14:00:08.863Z In(05) vmx Closing disk 'sata0:0'
+2024-08-22T14:00:08.874Z In(05) vmx AIOWIN32C: asyncOps=12474105 syncOps=25 bufSize=340Kb fixedOps=7368196
+2024-08-22T14:00:08.874Z In(05) aioCompletion AIO thread processed 12474105 completions
+2024-08-22T14:00:09.451Z In(05) deviceThread Device thread is exiting
+2024-08-22T14:00:09.451Z In(05) vmx Vix: [mainDispatch.c:1171]: VMAutomationPowerOff: Powering off.
+2024-08-22T14:00:09.452Z In(05) vmx Win32U_GetFileAttributes: GetFileAttributesExW("B:\Virtual Machines\DS918+\DS918+.vmpl", ...) failed, error: 2
+2024-08-22T14:00:09.452Z In(05) vmx Policy_SavePolicyFile: invalid arguments to function.
+2024-08-22T14:00:09.452Z In(05) vmx PolicyVMX_Exit: Could not write out policies: 15.
+2024-08-22T14:00:09.452Z In(05) vmx WORKER: asyncOps=3 maxActiveOps=3 maxPending=3 maxCompleted=0
+2024-08-22T14:00:09.455Z In(05) PowerNotifyThread PowerNotify thread exiting.
+2024-08-22T14:00:10.150Z In(05) vmx Vix: [mainDispatch.c:4212]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2024-08-22T14:00:10.150Z In(05) vmx Vix: [mainDispatch.c:4230]: VMAutomation: Ignoring ReportPowerOpFinished because the VMX is shutting down.
+2024-08-22T14:00:10.155Z In(05) vmx VMXSTATS: Ready to cleanup and munmap 26798370000.
+2024-08-22T14:00:10.161Z No(00) vmx ConfigDB: Setting cleanShutdown = "TRUE"
+2024-08-22T14:00:10.167Z In(05) vmx Vix: [mainDispatch.c:4212]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2024-08-22T14:00:10.167Z In(05) vmx Vix: [mainDispatch.c:4230]: VMAutomation: Ignoring ReportPowerOpFinished because the VMX is shutting down.
+2024-08-22T14:00:10.167Z In(05) vmx Transitioned vmx/execState/val to poweredOff
+2024-08-22T14:00:10.168Z In(05) vmx VMX idle exit
+2024-08-22T14:00:10.168Z In(05) vmx WQPoolFreePoll : pollIx = 3, signalHandle = 3056
+2024-08-22T14:00:10.169Z In(05) vmx Vix: [mainDispatch.c:817]: VMAutomation_LateShutdown()
+2024-08-22T14:00:10.169Z In(05) vmx Vix: [mainDispatch.c:772]: VMAutomationCloseListenerSocket. Closing listener socket.
+2024-08-22T14:00:10.169Z In(05) vmx Flushing VMX VMDB connections
